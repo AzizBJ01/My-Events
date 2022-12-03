@@ -8,8 +8,8 @@
           "location": "bizerte",
           "date": "28 january 2022",
           "time": "12:00",
-          "organizer": "aziz ben jaffel",
-        }
+          "organizer": "aziz ben jaffel"
+        },
         {
           "id": 592,
           "category": "nature",
@@ -18,8 +18,8 @@
           "location": "bizerte",
           "date": "28 february 2022",
           "time": "13:00",
-          "organizer": "youssef souissi",
-        }
+          "organizer": "youssef souissi"
+        },
         {
           "id": 593,
           "category": "environement",
@@ -28,7 +28,7 @@
           "location": "bizerte",
           "date": "28 march 2022",
           "time": "14:00",
-          "organizer": "eren yeager",
-        }
+          "organizer": "eren yeager"
+        },
       ]
 }
