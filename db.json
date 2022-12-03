@@ -1,4 +1,3 @@
-{
       events: [
         {
           id: 591,
@@ -34,4 +33,3 @@
           organizer: "eren yeager",
         },
       ],
-    };
